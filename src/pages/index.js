@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import BannerPoster from "../images/videoposter.jpg"
 import BannerVideo from "../images/video.mp4"
 
-import LaunchesCard from "../components/launches-card"
+import LaunchesCard from "../components/launches-card/launches-card"
 
 class IndexPage extends React.Component {
     constructor(props) {

@@ -698,6 +698,7 @@ header {
 
 .headersticky {
     background-color: #000;
+    transition: background-color 1.5s ease;
 }
 
 

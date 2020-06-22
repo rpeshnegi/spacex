@@ -1,6 +1,5 @@
 import React from "react"
-import IconArrow from "../images/icon_arrow.png"
-import Launchf9 from "../images/launches/f9.jpg"
+import IconArrow from "../../images/icon_arrow.png"
 
 const LaunchesCard = (props) => {
     return (
